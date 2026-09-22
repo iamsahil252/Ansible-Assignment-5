@@ -1,0 +1,3 @@
+---
+grafana_package: "grafana-{{ grafana_version }}"
+grafana_repo_file: "/etc/yum.repos.d/grafana.repo"

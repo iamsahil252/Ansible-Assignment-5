@@ -1,0 +1,2 @@
+---
+prometheus_nologin_shell: /sbin/nologin

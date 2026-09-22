@@ -1,0 +1,11 @@
+
+# defaults file for roles/grafana
+---
+grafana_version: "12.1.1"
+grafana_port: 3000
+
+grafana_config_dir: /etc/grafana
+grafana_config_file: /etc/grafana/grafana.ini
+
+grafana_user: grafana
+grafana_group: grafana
