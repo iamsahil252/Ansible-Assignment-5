@@ -1,5 +1,5 @@
 [ubuntu]
-ubuntu-server ansible_host=43.204.221.194 ansible_user=ubuntu ansible_ssh_private_key_file=/var/lib/jenkins/.ssh/AnsibleKeyPair.pem
+ubuntu-server ansible_host=15.207.89.235 ansible_user=ubuntu ansible_ssh_private_key_file=/var/lib/jenkins/.ssh/AnsibleKeyPair.pem
 
 [amazon]
 amazon-server ansible_host=13.232.2.134 ansible_user=ec2-user ansible_ssh_private_key_file=/var/lib/jenkins/.ssh/AnsibleKeyPair.pem
